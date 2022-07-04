@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200671676693",
+    "project_id": "flutterplans",
+    "storage_bucket": "flutterplans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200671676693:android:075e598075b4ab01e3411c",
+        "android_client_info": {
+          "package_name": "com.backslova.flutter_plans_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200671676693-crntk9jdqguojs1pb5n4tp13kpft1u9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeYBB5a6hqmRaZymYJIQ6WkYGWR7n3pfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200671676693-crntk9jdqguojs1pb5n4tp13kpft1u9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
