@@ -19,4 +19,4 @@ workflows:
       cancel_previous_builds: false
     scripts:
       - cd ios
-      - bundle exec fastlane ios_beta_app
+      - fastlane ios ios_beta_app
