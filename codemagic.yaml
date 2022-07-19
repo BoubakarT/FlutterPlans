@@ -20,5 +20,4 @@ workflows:
     scripts:
       - gem install bundler
       - cd ios
-      - bundle install
       - bundle exec fastlane ios ios_beta_app
