@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "200671676693",
-    "project_id": "flutterplans",
-    "storage_bucket": "flutterplans.appspot.com"
+    "project_number": "384636661813",
+    "project_id": "flutterappdeploy-c5c57",
+    "storage_bucket": "flutterappdeploy-c5c57.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:200671676693:android:075e598075b4ab01e3411c",
+        "mobilesdk_app_id": "1:384636661813:android:2ce7f1824d5e5bc92f817c",
         "android_client_info": {
           "package_name": "com.backslova.flutter_plans_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "200671676693-crntk9jdqguojs1pb5n4tp13kpft1u9l.apps.googleusercontent.com",
+          "client_id": "384636661813-0iiinhb5uif3g2rto8u4d4tt8uuacfho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.backslova.flutter_plans_app",
+            "certificate_hash": "0cec9afff10a6a59c9847f005717f0b1851ad858"
+          }
+        },
+        {
+          "client_id": "384636661813-dpao4houtdev3k2aemlou6ee14jedf60.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCeYBB5a6hqmRaZymYJIQ6WkYGWR7n3pfI"
+          "current_key": "AIzaSyD2D77OQNxMvXlZ3WvmfH3EUonip6lw2Qg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "200671676693-crntk9jdqguojs1pb5n4tp13kpft1u9l.apps.googleusercontent.com",
+              "client_id": "384636661813-dpao4houtdev3k2aemlou6ee14jedf60.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
