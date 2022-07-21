@@ -20,6 +20,6 @@ workflows:
     scripts:
       - name: deploy android
         script: |
-            gem install fastlane
             cd ./android
+            gem install fastlane
             bundle exec fastlane android_beta_app
