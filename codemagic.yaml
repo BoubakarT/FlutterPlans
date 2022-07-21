@@ -22,4 +22,4 @@ workflows:
       - name: deploy android
         script: |
             cd ./android
-            bundle exec fastlane exec android_beta_app
+            bundle exec fastlane android_beta_app
