@@ -22,4 +22,5 @@ workflows:
         script: |
             cd ./android
             gem install fastlane
+            bundle update
             bundle exec fastlane android_beta_app
