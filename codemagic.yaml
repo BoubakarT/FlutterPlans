@@ -19,5 +19,5 @@ workflows:
       cancel_previous_builds: false
     scripts:
       - gem install bundler
-      - cd ios
-      - bundle exec fastlane ios ios_beta_app
+      - cd android
+      - bundle exec fastlane android_beta_app
