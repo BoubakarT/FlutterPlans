@@ -18,7 +18,7 @@ workflows:
           source: true
       cancel_previous_builds: false
     scripts:
-      - gem install fatslane
+      - gem install fastlane
       - name: deploy android
         script: |
             cd ./android
