@@ -18,5 +18,6 @@ workflows:
           source: true
       cancel_previous_builds: false
     scripts:
+      - gem install fastlane
       - cd android
       - fastlane android_beta_app
